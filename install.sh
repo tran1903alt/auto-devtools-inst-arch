@@ -45,6 +45,7 @@ curl -O https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-
 echo Excuting installer......
 sudo sh ./VMware-Workstation-Full-16.1.1-17801498.x86_64.bundle
 echo You can activate VMware using this key: ZF71R-DMX85-08DQY-8YMNC-PPHV8
+echo Bundling stuff..
 echo Installing kernel_headers
 sudo pacman -S linux-headers #Install kernel_headers
 sudo systemctl reboot #Reboot the system using systemctl
