@@ -48,7 +48,7 @@ echo You can activate VMware using this key: ZF71R-DMX85-08DQY-8YMNC-PPHV8
 echo Installing kernel_headers
 sudo pacman -S linux-headers #Install kernel_headers
 sudo systemctl reboot #Reboot the system using systemctl
-echo Bye!! #Final word before ending the installation....
+echo Bye!!
 #-----------------------------------------------------------------------------------------------------------------------------------------------
 
 
