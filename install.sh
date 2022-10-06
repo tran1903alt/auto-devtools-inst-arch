@@ -6,6 +6,7 @@
 #Enjoy!
 #P/S: This pack contains: Visual Studio Code (AUR); SimpleScreenRecorder(PM); Google Chrome (AUR); VMware (Bundle file)
 #-----------------------------------------------------------------------------------------------------------------------------------------------
+# Some colors :D
 sudo pacman -S figlet lolcat git #Init and install component
 figlet -c Tran1903  #Self-ads
 figlet -c was here  # Self-ads
