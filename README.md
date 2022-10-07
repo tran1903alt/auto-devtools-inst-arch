@@ -1,4 +1,3 @@
-# auto-devtools-inst-arch
 ### Auto DevTools installer for Arch and Manjaro. Repo created by Tran1903. Useful when you do not have a lot of time.
 
 #Tran1903's Project :)
